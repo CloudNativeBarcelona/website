@@ -39,4 +39,4 @@ relativeURLs = true
     meetup = "https://www.meetup.com/Cloud-Native-Barcelona/"
     telegram = "https://t.me/CloudNativeBarcelona"
     linkedin = "https://www.linkedin.com/groups/12122493/"
-
+    slack = "https://slack.cncf.io/"
