@@ -16,6 +16,14 @@ buildExpired = false
 # enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
 relativeURLs = true
 
+googleAnalytics = "UA-137528114-2"
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+
 [blackfriday]
   extensions = ["hardLineBreak"]
 
