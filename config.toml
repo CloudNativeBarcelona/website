@@ -42,7 +42,7 @@ googleAnalytics = "UA-137528114-2"
   error404 = "There is no such page."
 
   [params.contact]
-    github = "https://github.com/CloudNativeBarcelona"
+    github = "https://github.com/cnbcn"
     twitter = "https://twitter.com/BarcelonaCloud"
     meetup = "https://www.meetup.com/Cloud-Native-Barcelona/"
     telegram = "https://t.me/CloudNativeBarcelona"
