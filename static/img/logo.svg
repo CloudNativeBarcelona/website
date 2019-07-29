@@ -11,9 +11,9 @@
    viewBox="5.52 5.02 388.96 388.96"
    version="1.1"
    id="svg31"
-   sodipodi:docname="cnbcn-icon-color-v7.svg"
+   sodipodi:docname="cnbcn-icon-color-v8.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   inkscape:export-filename="/Users/rael/Desktop/cnbcn-icon-color-v7.png"
+   inkscape:export-filename="/Users/rael/Desktop/cnbcn-icon-color-v8.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,14 +44,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1155"
+     inkscape:window-height="1156"
      id="namedview33"
      showgrid="false"
      inkscape:zoom="1.7932436"
-     inkscape:cx="147.90612"
-     inkscape:cy="254.45873"
+     inkscape:cx="268.40297"
+     inkscape:cy="137.60151"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg31"
      showguides="false" />
@@ -84,30 +84,30 @@
        style="fill:#76c4d5"
        inkscape:connector-curvature="0"
        class="st1"
-       d="m 238.175,119.475 v 0 L 220.35,101.65 202.525,83.825 184.7,66 h 77.9 V 12.6 H 137.9 v 53.8 l 70.8,70.9 z"
+       d="M 262.6,66 V 12.6 H 137.9 v 53.8 0 c 41.91676,0.179098 90.03554,-0.230302 124.7,-0.4 z"
        id="XMLID_77_"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#76c4d5"
        inkscape:connector-curvature="0"
        class="st1"
-       d="m 191.7,261.9 -29.40254,17.82754 c 5.93322,5.94178 -5.93201,-5.94299 0,0 5.93201,5.94299 11.86379,11.8862 17.79611,17.82888 5.93232,5.94268 11.86518,11.88482 17.79933,17.82567 5.93415,5.94085 11.8696,11.88041 17.8071,17.81791 H 196.25 176.8 157.35 137.9 v 53.4 h 124.7 v -53.8 l -35.5,-35.5 z"
+       d="m 137.9,333.2 c 0,0 125,0 0,0 v 53.4 h 124.7 v -53.8 c -124.7,0.4 0.3,0.4 -124.7,0.4 z"
        id="XMLID_76_"
-       sodipodi:nodetypes="ccssscccccccccc" />
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#76c4d5"
        inkscape:connector-curvature="0"
        class="st1"
-       d="m 333.8,137.3 v 77.8 L 316,197.3 298.2,179.5 280.4,161.7 v 0 l -17.8,29.4 35.4,35.4 35.4,35.4 h 53.8 V 137.3 Z"
+       d="m 333.8,137.3 c 0.12888,47.12906 0.009,95.76163 0,125 53.4,-0.4 0,0 53.4,-0.4 V 137.3 Z"
        id="XMLID_75_"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#76c4d5"
        inkscape:connector-curvature="0"
        class="st1"
-       d="M 137.9,208.1 67.1,137.3 H 13.2 v 124.6 h 53.5 v -77.8 l 17.8,17.8 17.8,17.8 17.8,17.8 v 0 z"
+       d="m 67.1,137.3 v 0 H 13.2 v 124.6 h 53.5 c 0.4,-124.6 0,0 0.4,-124.6 z"
        id="XMLID_74_"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccc" />
   </g>
   <g
      style="clip-rule:evenodd;fill:#808080;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
